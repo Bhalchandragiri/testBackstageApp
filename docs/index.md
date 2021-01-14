@@ -1,6 +1,6 @@
 ## testBackstageApp
 
-test bs app
+test backstage app
 
 ## Getting started
 
