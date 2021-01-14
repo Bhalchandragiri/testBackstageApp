@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "testBackstageApp"
+  description: "test bs app"
+  annotations:
+    github.com/project-slug: "sandeep-pareek/testBackstageApp"
+    backstage.io/techdocs-ref: github:https://github.com/sandeep-pareek/testBackstageApp
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "sandeep-pareek"
